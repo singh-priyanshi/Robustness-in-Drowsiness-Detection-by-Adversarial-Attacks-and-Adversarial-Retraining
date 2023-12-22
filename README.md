@@ -81,8 +81,8 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 - Distance Metric: L2
 - Max Iterations: 100
 - Results:
-  - Model 1 (Mobilenet V2) Accuracy (Before / After Retraining): 
-  - Model 2 (Custom CNN) Accuracy (Before / After Retraining): 
+  - Model 1 (Mobilenet V2) Accuracy (Before / After Retraining): 0.51 / 0.99
+  - Model 2 (Custom CNN) Accuracy (Before / After Retraining): 0.89 / 0.98
 
 ### 8. Boundary Attack
 
@@ -90,8 +90,8 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 - Epsilon: 0.01
 - Max Iterations: 100
 - Results:
-  - Model 1 (Mobilenet V2) Accuracy (Before / After Retraining): 
-  - Model 2 (Custom CNN) Accuracy (Before / After Retraining): 
+  - Model 1 (Mobilenet V2) Accuracy (Before / After Retraining): 0.07 / 1.0
+  - Model 2 (Custom CNN) Accuracy (Before / After Retraining): 0.05 / 0.90
 
 ## Benefits and Competition
 
@@ -115,8 +115,8 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 | DDN Attack Accuracy | 0.9979 | 0.97 |
 | DeepFool Attack Accuracy | 0.91 | 0.965 |
 | Patch Attack Accuracy | 0.91 | 0.977 |
-| Carlini Wagner Attack Accuracy |  |  |
-| Boundary Attack Accuracy |  |  |
+| Carlini Wagner Attack Accuracy | 0.99 | 0.98 |
+| Boundary Attack Accuracy | 1.0 | 0.90 |
 
 **\*** Accuracy is calculated after retraining for each attack
 ## References
