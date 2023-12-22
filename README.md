@@ -123,6 +123,15 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 | Boundary Attack Accuracy | 1.0 | 0.90 |
 
 **\*** Accuracy is calculated after retraining for each attack
+
+## Results
+
+![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/ef4f324a-b195-4717-b4bf-b7177b6bbb4b)
+Figure 2: Accuracy comparison of models before re-training on adversarial data
+
+![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/72c2a355-8189-4332-aca0-1b9c3d8772cf)
+Figure 3: Accuracy comparison of models after re-training on adversarial data
+
 ## References
 
 - Gwak, J., Hirao, A., Shino, M. (2020). [An investigation of early detection of driver drowsiness using ensemble machine learning based on hybrid sensing.](https://www.mdpi.com/2076-3417/10/8/2890)
