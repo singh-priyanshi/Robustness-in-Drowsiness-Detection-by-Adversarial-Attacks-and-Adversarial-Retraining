@@ -127,10 +127,10 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 ## Results
 
 ![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/ef4f324a-b195-4717-b4bf-b7177b6bbb4b)
-<br>&nbsp;&nbsp;&nbsp;Figure 2: Accuracy comparison of models before re-training on adversarial data
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Figure 2: Accuracy comparison of models before re-training on adversarial data
 
 ![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/72c2a355-8189-4332-aca0-1b9c3d8772cf)
-<br>&nbsp;&nbsp;&nbsp;Figure 3: Accuracy comparison of models after re-training on adversarial data
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Figure 3: Accuracy comparison of models after re-training on adversarial data
 
 ## References
 
