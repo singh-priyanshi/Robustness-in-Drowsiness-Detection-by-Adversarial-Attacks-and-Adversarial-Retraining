@@ -26,6 +26,11 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 
 3. The code also compares the accuracy of the model on adversarial data before and after the model retraining.
 
+### Dataset
+Datasets: In this study, we leveraged the Closed Eyes in the Wild (CEW) dataset, a comprehensive collection comprising 1452 subjects. Within this dataset, 726 individuals exhibit closed eyes, while 726 individuals have open eyes. The CEW dataset provides a diverse set of scenarios, enriching our understanding of drowsiness detection. Our focus on the CEW dataset ensures a robust exploration of drowsiness detection across varied subjects and conditions. Figure 1 illustrates examples from the CEW dataset. 
+![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/1e0e6fa2-f1a6-468d-ac9d-05b7d1ee07d0)
+<br>Figure 1: Sample Images from CEW DataSet
+
 ## Adversarial Attacks and Results
 
 ### 1. Fast Gradient Sign Method (FGSM) Attack
@@ -127,10 +132,10 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 ## Results
 
 ![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/ef4f324a-b195-4717-b4bf-b7177b6bbb4b)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Figure 2: Accuracy comparison of models before re-training on adversarial data
+<br>Figure 2: Accuracy comparison of models before re-training on adversarial data
 
 ![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/72c2a355-8189-4332-aca0-1b9c3d8772cf)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Figure 3: Accuracy comparison of models after re-training on adversarial data
+<br>Figure 3: Accuracy comparison of models after re-training on adversarial data
 
 ## References
 
