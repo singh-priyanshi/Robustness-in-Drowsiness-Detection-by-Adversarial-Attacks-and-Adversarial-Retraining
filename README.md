@@ -108,14 +108,17 @@ For each model, MobileNet V2 and Custom CNN, there are two specific Python noteb
 | Parameters        | Mobilenet V2 | Custom CNN |
 |-------------------|--------------|------------|
 | Number of Parameters | 3,360,322 | 5,561,922 |
-| Accuracy (After Retraining) | 1.0 | 1.0 |
-| FGSM Attack Accuracy (After Retraining) | 0.514 | 0.962 |
-| PGD Attack Accuracy (After Retraining) | 0.997 | 0.942 |
-| Auto-PGD Attack Accuracy (After Retraining) | 1.0 | 0.97 |
-| DDN Attack Accuracy (After Retraining) | 0.9979 | 0.97 |
-| DeepFool Attack Accuracy (After Retraining) | 0.91 | 0.965 |
-| Patch Attack Accuracy (After Retraining) | 0.91 | 0.977 |
+| Accuracy | 1.0 | 1.0 |
+| FGSM Attack Accuracy | 0.514 | 0.962 |
+| PGD Attack Accuracy | 0.997 | 0.942 |
+| Auto-PGD Attack Accuracy | 1.0 | 0.97 |
+| DDN Attack Accuracy | 0.9979 | 0.97 |
+| DeepFool Attack Accuracy | 0.91 | 0.965 |
+| Patch Attack Accuracy | 0.91 | 0.977 |
+| Carlini Wagner Attack Accuracy |  |  |
+| Boundary Attack Accuracy |  |  |
 
+**\*** Accuracy is calculated after retraining for each attack
 ## References
 
 - Gwak, J., Hirao, A., Shino, M. (2020). [An investigation of early detection of driver drowsiness using ensemble machine learning based on hybrid sensing.](https://www.mdpi.com/2076-3417/10/8/2890)
