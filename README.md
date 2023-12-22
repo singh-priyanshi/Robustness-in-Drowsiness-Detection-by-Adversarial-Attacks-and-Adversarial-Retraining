@@ -9,6 +9,10 @@ This repository contains the code and documentation for the final project titled
 
 The project presentation slides, video, and report are available in the "Presentation" folder. The presentation covers the project's needs, approach, adversarial attack techniques, benefits, competition with Mobilenet V2 and Custom CNN models, deliverables, references, and team member contributions.
 
+## Saved Models
+
+The retrained models against each attack for both the Mobilenet V2 and the Custom CNN architectures are available at: [Drive Link](https://drive.google.com/drive/folders/14i9ji9RnqabFeQWVTxtcFQmQHO2TvmED?usp=sharing)
+
 ## Code Structure
 
 For each model, MobileNet V2 and Custom CNN, there are two specific Python notebooks. Each notebook contains code for training the model on clean data. Additionally, each model notebook performs multiple adversarial attacks on the model, including "FGSM," "PGD," "Auto-PGD," "DDN," "DeepFool," "Patch," "Carlini Wagner," and "Boundary Attack."
