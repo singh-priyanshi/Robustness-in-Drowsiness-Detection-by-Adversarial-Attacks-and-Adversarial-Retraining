@@ -131,10 +131,12 @@ Datasets: In this study, we leveraged the Closed Eyes in the Wild (CEW) dataset,
 
 ## Results
 
-![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/ef4f324a-b195-4717-b4bf-b7177b6bbb4b)
+![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/0aa20a45-0b24-4037-b26a-c707ad7f743f)
+
 <br>Figure 2: Accuracy comparison of models before re-training on adversarial data
 
-![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/72c2a355-8189-4332-aca0-1b9c3d8772cf)
+![image](https://github.com/singh-priyanshi/ML-for-Cybersec-Final-Project/assets/31034647/ddfd87d0-ee6e-4b4e-ae29-f4c4ff305e00)
+
 <br>Figure 3: Accuracy comparison of models after re-training on adversarial data
 
 ## References
